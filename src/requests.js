@@ -1,7 +1,7 @@
 // const url="https://muskan-api.herokuapp.com/api/v1/";
 // const url="http://localhost:5000/api/v1/"
 
-const url="http://localhost:5000/";
+const url="https://50f9-18-218-145-166.ngrok.io/";
 
 
 const get=async(url)=>{
